@@ -1,0 +1,6 @@
+{
+  "name": "routes",
+  "version": "0.0.1",
+  "description": "express-like routes for the front-end history api",
+  "main": "index.js"
+}
